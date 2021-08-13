@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "77884a7cd2d44c80",
+    "type": "split",
+    "children": [
+      {
+        "id": "af51018f953f988e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ALTIMIT OS/ECS/ECS.md",
+            "mode": "source"
+          }
+        },
+        "group": "de9ca5572add4a54"
+      },
+      {
+        "id": "7dd55e279fdd1fcc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ALTIMIT OS/ECS/ECS.md",
+            "mode": "preview"
+          }
+        },
+        "group": "de9ca5572add4a54"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebdf22f417bdae43",
+    "type": "split",
+    "children": [
+      {
+        "id": "39b2ca2e228b5ed1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b102e9057049b968",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "430b1909355ffc64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Cloud",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8808c2e671093d25",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87dfa65aaf3ccbc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "45f163aca68040be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b902b37d9c07c33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ALTIMIT OS/ECS/ECS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "338dcfa974f19932",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a949b375ed69801b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "58e4753a0e518800",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "af51018f953f988e",
+  "lastOpenFiles": [
+    "ALTIMIT OS/ECS/ECS.md",
+    "ALTIMIT OS/Unity/C#/DateType.md",
+    "ALTIMIT OS/Unity/C#/Mik/MiK C Sharp.md",
+    "ALTIMIT OS/UnityCsharp.md",
+    "ALTIMIT OS/Studio.md",
+    "Game_Design/遊戲設計目錄.md",
+    "Area/DayNote/2020-12-09.md",
+    "Area/DayNote/2020-12-07.md",
+    "Area/DayNote/2020-12-06.md",
+    "Area/WikiData/Tools/Discord.md"
+  ]
+}

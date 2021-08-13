@@ -1,0 +1,8 @@
+# 多媒體記憶卡
+**多媒體記憶卡**（英語：Multimedia Card），又譯**MMC卡**，是一種[快閃記憶](https://zh.wikipedia.org/wiki/%E5%BF%AB%E9%96%83%E8%A8%98%E6%86%B6%E9%AB%94 "快閃記憶體")卡標準。在1997年由[西門子](https://zh.wikipedia.org/wiki/%E8%A5%BF%E9%96%80%E5%AD%90 "西門子")及[新帝](https://zh.wikipedia.org/wiki/SanDisk "新帝")共同開發，技術基於[東芝](https://zh.wikipedia.org/wiki/%E6%9D%B1%E8%8A%9D "東芝")的[NAND](https://zh.wikipedia.org/wiki/NAND "NAND")快閃記憶技術，因此較早期基於[Intel](https://zh.wikipedia.org/wiki/Intel "Intel") [NOR](https://zh.wikipedia.org/wiki/NOR "NOR")快閃記憶技術的記憶卡（例如[CF卡](https://zh.wikipedia.org/wiki/CF%E5%8D%A1 "CF卡")）更細小。MMC卡大小與一張[郵票](https://zh.wikipedia.org/wiki/%E9%83%B5%E7%A5%A8 "郵票")差不多，約24mm x 32mm x 1.5mm。
+
+MMC卡原本使用1[bit](https://zh.wikipedia.org/wiki/%E4%BD%8D%E5%85%83 "位元")串聯介面，但較新的標準則容許同時傳送4 bit或8 bits的資料。近年MMC卡技術已差不多完全被[SD卡](https://zh.wikipedia.org/wiki/SD%E5%8D%A1 "SD卡")所代替；但由於MMC卡仍可被相容SD卡的裝置所讀取，因此仍有其作用。
+
+目前MMC卡的的容量多達 2 [GB](https://zh.wikipedia.org/wiki/Gigabyte "Gigabyte")，並且用於幾乎所有使用[記憶卡](https://zh.wikipedia.org/wiki/%E5%AD%98%E5%82%A8%E5%8D%A1 "記憶卡")的裝置上，如[行動電話](https://zh.wikipedia.org/wiki/%E7%A7%BB%E5%8A%A8%E7%94%B5%E8%AF%9D "行動電話")、[數字音訊播放機](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%97%E9%9F%B3%E9%A2%91%E6%92%AD%E6%94%BE%E6%9C%BA "數字音訊播放機")、[數位相機](https://zh.wikipedia.org/wiki/%E6%95%B0%E7%A0%81%E7%9B%B8%E6%9C%BA "數位相機")和[個人數位助理](https://zh.wikipedia.org/wiki/%E4%B8%AA%E4%BA%BA%E6%95%B0%E7%A0%81%E5%8A%A9%E7%90%86 "個人數位助理")中。由於[Secure Digital](https://zh.wikipedia.org/wiki/Secure_Digital "Secure Digital")的出現，幾乎沒有公司將MMC插槽做進他們的裝置中，但是稍微窄一點的、針腳相容的MMC卡可以用在所有支援SD卡的裝置上。然而，少數一些公司，最著名的如[諾基亞](https://zh.wikipedia.org/wiki/%E8%AF%BA%E5%9F%BA%E4%BA%9A "諾基亞")，仍然全部地支援MMC。
+
+###### tags: #wiki #3C

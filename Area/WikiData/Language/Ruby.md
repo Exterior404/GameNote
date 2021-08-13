@@ -1,0 +1,5 @@
+**Ruby** 是一種物件導向、命令式、函數式、動態的通用程式語言。 在20世紀90年代中期由日本電腦科學家松本行弘（Matz）設計並開發。
+
+遵守[BSD授權條款](https://zh.wikipedia.org/wiki/BSD%E8%AE%B8%E5%8F%AF%E8%AF%81 "BSD授權條款")和Ruby License[\[10\]](https://zh.wikipedia.org/wiki/Ruby#cite_note-10)[\[註 1\]](https://zh.wikipedia.org/wiki/Ruby#cite_note-11)。它的靈感與特性來自於[Perl](https://zh.wikipedia.org/wiki/Perl "Perl")、[Smalltalk](https://zh.wikipedia.org/wiki/Smalltalk "Smalltalk")、[Eiffel](https://zh.wikipedia.org/wiki/Eiffel "Eiffel")、[Ada](https://zh.wikipedia.org/wiki/Ada "Ada")以及[Lisp](https://zh.wikipedia.org/wiki/Lisp "Lisp")語言。由Ruby語言本身還發展出了[JRuby](https://zh.wikipedia.org/wiki/JRuby "JRuby")（[Java](https://zh.wikipedia.org/wiki/Java "Java")平台）、[IronRuby](https://zh.wikipedia.org/wiki/IronRuby "IronRuby")（[.NET](https://zh.wikipedia.org/wiki/.NET ".NET")平台）等其他平台的Ruby語言替代品。
+
+###### tags: #wiki #Code_Language 

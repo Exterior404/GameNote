@@ -1,0 +1,5 @@
+[維基百科](https://zh.wikipedia.org/wiki/OpenCV?wprov=srpw1_0)
+
+**OpenCV**的全稱是Open Source Computer Vision Library，是一個跨平台的[電腦視覺](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89 "電腦視覺")庫。OpenCV是由[英特爾公司](https://zh.wikipedia.org/wiki/%E8%8B%B1%E7%89%B9%E5%B0%94 "英特爾")發起並參與開發，以[BSD授權條款](https://zh.wikipedia.org/wiki/BSD%E8%AE%B8%E5%8F%AF%E8%AF%81 "BSD授權條款")授權發行，可以在商業和研究領域中免費使用。OpenCV可用於開發即時的[圖像處理](https://zh.wikipedia.org/wiki/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86 "圖像處理")、[電腦視覺](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89 "電腦視覺")以及[圖型識別](https://zh.wikipedia.org/wiki/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB "圖型識別")程式。該程式庫也可以使用英特爾公司的[IPP](https://zh.wikipedia.org/w/index.php?title=%E9%9B%86%E6%88%90%E6%80%A7%E8%83%BD%E5%9F%BA%E5%85%83&action=edit&redlink=1 "整合效能基元（頁面不存在）")進行加速處理。
+
+###### tags: #wiki #Tools_Soft 

@@ -1,0 +1,5 @@
+[維基百科](https://zh.wikipedia.org/wiki/Vue.js)
+---
+**Vue.js**（[/vjuː/](https://zh.wikipedia.org/wiki/Help:%E8%8B%B1%E8%AA%9E%E5%9C%8B%E9%9A%9B%E9%9F%B3%E6%A8%99 "Help:英語國際音標")，或簡稱為**Vue**）是一個用於建立使用者介面的[開源](https://zh.wikipedia.org/wiki/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6 "開源軟體")[JavaScript](https://zh.wikipedia.org/wiki/JavaScript "JavaScript")框架，也是一個建立[單頁應用](https://zh.wikipedia.org/wiki/%E5%8D%95%E9%A1%B5%E5%BA%94%E7%94%A8 "單頁應用")的[Web應用框架](https://zh.wikipedia.org/wiki/Web%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6 "Web應用框架")[\[4\]](https://zh.wikipedia.org/wiki/Vue.js#cite_note-4)。 2016年一項針對JavaScript的調查表明，Vue有著89%的開發者滿意度。[\[5\]](https://zh.wikipedia.org/wiki/Vue.js#cite_note-stateofjs-5)在[GitHub](https://zh.wikipedia.org/wiki/GitHub "GitHub")上，該專案平均每天能收穫95顆星，[\[5\]](https://zh.wikipedia.org/wiki/Vue.js#cite_note-stateofjs-5)[\[6\]](https://zh.wikipedia.org/wiki/Vue.js#cite_note-6)為Github有史以來星標數第3多的專案。[\[7\]](https://zh.wikipedia.org/wiki/Vue.js#cite_note-7)
+
+###### tags: #wiki #Web 
